@@ -25,8 +25,8 @@ cat ~/.bashrc
 nano ~/.bashrc
 ```
 
-1- What line should you add to it to automatically be able to call the program ros2 in any terminal?
-1- What can/should you do to reload the .bashrc file?
+1. What line should you add to it to automatically be able to call the program ros2 in any terminal?
+1. What can/should you do to reload the .bashrc file?
 
 ```
 $ ros2
@@ -74,10 +74,10 @@ Create an issue.
 
 Title : Bashrc
 
-1- make a screenshot of your terminal. 
-1- Disable sexy-bash-prompt in you terminal. 
-1- Reload the bashrc
-1- make another screenshot of you terminal
+1. make a screenshot of your terminal. 
+1. Disable sexy-bash-prompt in you terminal. 
+1. Reload the bashrc
+1. make another screenshot of you terminal
 
 Add all the sreenshots in the issue
 
@@ -89,6 +89,6 @@ Title : Turtlesim
 
 In the issue I want you to put a screenshot after each of the following task.
 
-1- Move the turtle anywhere (The turtle should just have moved)
-1- Create a turtle named bobcat
-1- Move the second turtle
+1. Move the turtle anywhere (The turtle should just have moved)
+1. Create a turtle named bobcat
+1. Move the second turtle
